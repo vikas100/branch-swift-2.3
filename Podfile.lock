@@ -1,0 +1,16 @@
+PODS:
+  - Branch (0.12.5):
+    - Branch/Core (= 0.12.5)
+    - Branch/without-IDFA (= 0.12.5)
+  - Branch/Core (0.12.5)
+  - Branch/without-IDFA (0.12.5)
+
+DEPENDENCIES:
+  - Branch
+
+SPEC CHECKSUMS:
+  Branch: 42307809efa9f23a55f40d8375ef8193bfe62b7c
+
+PODFILE CHECKSUM: 7abb5b2a00d8410912c7ded3c572e5a690163821
+
+COCOAPODS: 1.0.1
